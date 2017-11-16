@@ -1,5 +1,5 @@
-## Тесты компании Renaissance Insurance для претендетов на вакансии: Data Scientist / Data Analyst.*
-*«Renaissance Insurance»: Data Scientist / Data Analyst applicant’s tests (in Russian).
+## Тесты компании "Ренессанс Страхование" для претендетов на вакансии: Data Scientist / Data Analyst и мои решения задач.*
+*"Renaissance Insurance": Data Scientist / Data Analyst applicant’s tests (in Russian) and my solutions.
 
 Краткое описание задач:
 * **`Задача 1`** - Спрогнозировать вероятности повторных страховок.
