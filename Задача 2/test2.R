@@ -1,7 +1,7 @@
 # Renaissance Insurance: case #2.
 # Problem type: list of clients suspects in fraud activity.
 # Created and tested on Mac (HighSierra OS) / R v.3.4.2
-# Date: 13-10-2017
+# Date: 14-10-2017
 # Georgie Shimanovsky | e-mail: geoshi@me.com
 
 require(data.table) || install.packages("data.table")
