@@ -1,15 +1,14 @@
 ---
 title: 'Renaissance: Задание 2'
-author: "Георгий Шимановский"
+author: "Georgie Shimanovsky"
 date: "13 11 2017"
 output:
+  word_document: default
   pdf_document:
     latex_engine: xelatex
-  word_document: default
 monofont: PT Mono
 mainfont: Helvetica Neue
 ---
-
 
 
 ```{r setup, include=FALSE}

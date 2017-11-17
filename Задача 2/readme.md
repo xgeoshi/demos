@@ -7,7 +7,7 @@
 
 ## Файлы:
 * **`data.csv`** - файл с оригинальными данным.
-* **`steps_explain.docx`** -  Описание шагов выполнения тестового задания (сгенерирован Rmarkdown файлом `steps.Rmd`).
-* **`steps_explain.pdf`** - Тоже самое, что docx.
-* **`steps.Rmd`** - воспроизводимый Rmarkdown отчет о выполнении задания.
+* **`steps_explain.docx`** -  Word Документ, сгенерирован Rmarkdown файлом `steps-explain.Rmd`.
+* **`steps_explain.pdf`** - PDF отчет, сгенерирован Rmarkdown файлом `steps-explain.Rmd`.
+* **`steps_explain.Rmd`** - воспроизводимый Rmarkdown отчет пошагового выполнения задания.
 * **`test2.R`** - код R, для выполнения задания.
